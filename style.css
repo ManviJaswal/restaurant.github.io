@@ -1,0 +1,2628 @@
+/* *{
+  margin: 0;
+  padding: 0;
+} */
+
+/* ____NAVBAR_____ */
+
+/* .header{
+  min-height: 90px;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.navbar-brand img{
+ margin-left: 100px;
+ }
+
+.navbar-nav{
+ padding-right: 80px;
+ margin-right: 100px;
+}
+
+.nav-link{
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  font-size: 16px;
+  font-family: 'Poppins',sans-serif;
+  font-weight: 600;
+}
+
+.navbar-light .navbar-nav .nav-item .active .nav-link,
+.navbar-light .navbar-nav .nav-item .nav-link:hover{
+  color: #db9423;
+}
+ .button{
+  background-color: #4CAF50; 
+  border: none;
+  color: #db9423;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  margin-right: 30px;
+  margin-top: 15px;
+}
+.button1 {
+  background-color: white; 
+  color: #db9423; 
+  border: 2px solid #db9423;
+  border-radius: 24px;
+  font-family: sans-serif;
+  font-weight: 550;
+  letter-spacing: 1.5px;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.button1:hover {
+  background-color: #db9423;
+  color: white;
+}
+.fa-bars{
+  font-size: 20px !important;
+  margin-top: 5px !important;
+}
+ */
+
+
+
+ /* _______bg video_________ */
+/* .banner{
+    height: 692px;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 90px;
+    position: relative;
+}
+.video-background{
+  position: absolute;
+}
+
+@media (min-aspect-ratio:16/9){
+  .video-background{
+    width: 100%;
+    height: auto;
+  }
+  
+}
+@media (max-aspect-ratio:16/9){
+  .video-background{
+    width: auto;
+    height: 100%;
+  }
+}
+.welcome-msg, .msg{
+   position: relative;
+   text-align: center;
+   margin-top: 150px;
+}
+
+.welcome-msg h3, .msg h3{
+  font-family: 'Times New Roman', Times, serif;
+  color: #db9423;
+  font-size: 35px;
+  font-weight: bold;
+}
+.welcome-msg h1, .msg h1{
+  color: #fff;
+  font-family: 'Abril Fatface';
+  font-size: 100px;
+  font-weight: bold;
+}
+.button2 {
+background-color: white; 
+color: #db9423; 
+border-radius: 24px;
+font-family: sans-serif;
+font-weight: 550;
+letter-spacing: 1.5px;
+}
+.button2:hover {
+background-color: #db9423;
+color: white;
+}
+.button3 {
+background-color: transparent; 
+color: #db9423; 
+border: 2px solid #db9423;
+border-radius: 24px;
+font-family: sans-serif;
+font-weight: 550;
+letter-spacing: 1.5px;
+}
+.button3:hover {
+background-color: #db9423;
+color: white;
+} */
+
+ /* _______BBQ__________ */
+/* .bbq_place{
+  overflow: hidden;
+  margin-bottom: 80px;
+}
+
+.bbq_place .symbol2{
+  height: 6vh;
+  margin-bottom: 20px;
+  margin-left: 160px;
+} 
+.bbq_place h2{
+  color: #db9423;
+  font-family: 'Abril Fatface';
+  font-weight: bold;
+  font-size: 50px;
+ text-align: center;
+}
+.bbq_place .symbol3{
+  margin-left: 80px;
+ }
+.bbq_place .button{
+  margin-left: 120px;
+  margin-top: 20px;
+}
+.bbq_place .para{
+  margin-top: 20px;
+  text-align: center;
+}
+.bbq_place .bold{
+  text-align: center;
+  color: #db9423;
+}
+.b3{
+  border-radius: 15px;
+  font-size: 14px;
+  font-weight: 550;
+  font-family: sans-serif;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: white;
+  color: orange;
+  border: 2px solid #db9423;
+  text-decoration: none !important;
+  margin-left: 85px;
+  padding: 10px 32px;
+  border-radius: 24px;
+  letter-spacing: 1.5px;
+}
+
+.b3:hover{
+  background-color: #db9423;
+  color: white;
+}
+.bbq_place .barb_img1{
+  margin-left: 60px;
+  height: 70vh;
+}
+.bbq_place .barb_img2{
+  height: 70vh;
+} */
+
+
+/* _______Feature__________ */
+/* .feature{
+  margin-bottom: 70px;
+  overflow: hidden;
+  margin-top: 70px;
+}
+.feature_text{
+  padding-top: 10px;
+  color: #db9423;
+  font-family: serif;
+  font-weight: bolder;
+  font-size: 35px;
+  justify-content: center;
+  margin-left: 40px;
+  margin-top: 20px;
+} */
+
+
+
+/* _______HAPPY HOURS__________ */
+
+/* .sec{
+  padding-top: 100px;
+}
+
+.happy{
+  position: relative;
+  height: 600px;
+  width: 100%;
+  overflow: hidden;
+  font-family: serif;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: linear-gradient(rgba(10,10,0,0), rgba(0,0,0,0.5)),url(photos/pexels-fauxels-3184192.jpg);
+}
+.dining_img{
+  height: 10vh;
+}
+
+.r1{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-top: 100px;
+}
+
+
+.text2 h3{
+  font-family: 'Abril Fatface';
+  color: #db9423;
+  font-size: 25px;
+  font-weight: bolder;
+  padding: 50px 0px 20px 0px;
+}
+
+.text2 h1{
+font-family: 'Abril Fatface';
+color: #db9423;
+font-size: 53px;
+font-weight: bolder;
+padding-bottom: 15px;
+}
+
+.text2 p{
+color: #fff;
+letter-spacing: 1px;
+font-size: 15px;
+padding-bottom: 15px;
+font-family: sans-serif;
+}
+
+.b4{
+  border-radius: 15px;
+  font-size: 14px;
+  font-weight: 550;
+  font-family: sans-serif;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: transparent;
+  color: orange;
+  border: 2px solid #db9423;
+  text-decoration: none !important;
+  text-align: center;
+  padding: 10px 32px;
+  border-radius: 24px;
+  letter-spacing: 1.5px;
+}
+
+.b4:hover{
+  background-color: #db9423;
+  color: white;
+} */
+
+/* _____FOOTER_____*/
+
+
+
+/* .eat{
+  position: relative;
+  height: 600px;
+  width: 100%;
+  overflow: hidden;
+  font-family: serif;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(photos/footer.jpg);
+}
+.eat .footer_msg{
+  text-align: center;
+  margin-top: 150px;
+}
+.footer_msg h1{
+  font-family: 'Abril Fatface';
+  color: #db9423;
+  font-size: 48px;
+  font-weight: bolder;
+  text-align: center;
+}
+.footer_msg p{
+  color: #fff;
+  margin-top: 10px;
+  font-family: sans-serif;
+}
+.footer_msg h3{
+  color: #fff;
+  font-family: 'Abril Fatface';
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.b5{
+  border-radius: 15px;
+  font-size: 14px;
+  font-weight: 550;
+  font-family: sans-serif;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: transparent;
+  color: orange;
+  border: 2px solid #db9423;
+  text-decoration: none !important;
+  text-align: center;
+  padding: 10px 32px;
+  border-radius: 24px;
+  letter-spacing: 1.5px;
+  margin: 30px 0;
+}
+
+.b5:hover{
+  background-color: #db9423;
+  color: white;
+} */
+
+
+
+
+/*mobile*/
+
+/* @media screen and (max-width: 900px){
+  .header{
+    min-height: 60px;
+  }
+   .navbar-brand img{
+    margin-left: -4px;
+    height: 5vh;
+  }
+  .welcome-msg{
+    bottom: 40px;
+  }
+  .welcome-msg h1{
+     font-size: 45px;
+  }
+  .welcome-msg h3{
+    font-size: 20px;
+    margin-left: 10px;
+  }
+  .welcome-msg .symbol{
+    margin-bottom: 10px;
+    margin-left: 10px;
+  }
+  .button2{
+    margin-left: 40px;
+  }
+  .button3{
+    margin-left: 40px;
+  }
+  .banner{
+    height: 550px;
+  }
+  .bbq_place .symbol2{
+    text-align: center;
+  }
+  .bbq_place h2{
+    font-size: 35px;
+  }
+  .bbq_place h4{
+    font-size: 19px;
+    text-align: center;
+    padding: 0 14px;
+    font-weight: bold;
+  }
+  .bbq_place p{
+    font-size: 15px;
+    padding: 0 22px;
+    text-align: center;
+  }
+  .bbq_place .b3{
+    text-align: center;
+    margin-left: 95px;
+    margin-bottom: 24px;
+  }
+  .bbq_place .barb_img1{
+    height: 38vh;
+    margin-left: 0;
+    padding-left: 30px;
+    
+  }
+  .bbq_place .barb_img2{
+    height: 38vh;
+  }
+  .feature_text{
+    text-align: center;
+    margin: 0;
+  }
+  .feature_logo{
+    height: 9vh;
+    padding-left: 20px;
+  }
+  .eat{
+    height: 400px;
+  }
+  .eat .footer_msg{
+    margin-top: 10px;
+  }
+  .footer_msg h1{
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 50px;
+  }
+  .footer_msg img{
+    height: 4vh;
+  }
+  .footer_msg p{
+    visibility: hidden;
+  }
+  .b5{
+    margin-top: -100px;
+  }
+  .footer_msg h3{
+    font-size: 20px;
+    padding: 0;
+  }
+  .happy{
+    height: 450px;
+  }
+  .text2 h1{
+    font-size: 35px;
+    padding: 0;
+  }
+  .text2 h3{
+    font-size: 20px;
+    padding: 0;
+  }
+  .dining_img{
+    padding-bottom: 30px;
+  }
+} */
+
+/* @@@@@@@@@@@@@MENU */
+
+/* ______IMAGE____ */
+
+/* .menu_header{
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 90px;
+    position: relative;
+}
+
+.menu_img{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+.msg p{
+   margin-top: 50px;
+   color: #fff;
+   font-size: 20px;
+}
+
+.msg{
+  position: relative;
+  text-align: center;
+  margin-top: 150px;
+}
+
+.msg h3{
+ font-family: 'Times New Roman', Times, serif;
+ color: #db9423;
+ font-size: 35px;
+ font-weight: bold;
+}
+
+.msg h1{
+ color: #fff;
+ font-family: 'Abril Fatface';
+ font-size: 100px;
+ font-weight: bold;
+} */
+
+/* ______TEXT____ */
+/* 
+.menu_text{
+  overflow: hidden;
+  padding-top: 50px;
+  margin-bottom: 100px;
+}
+
+.menu_t1{
+  text-align: center;
+}
+
+.menu_t1 h1{
+  color: #db9423;
+  font-size: 45px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+
+.menu_t1 h6{
+  letter-spacing: 7px;
+  font-weight: inherit;
+  padding-bottom: 10px;
+}
+
+.menu_t1 p{
+  font-size: 18px;
+  letter-spacing: 1px;
+  padding-bottom: 20px;
+}
+
+/* ____CARDS____ */
+/* 
+.menu_card{
+  overflow: hidden;
+  box-sizing: border-box;
+  margin-bottom: 100px;
+  margin-top: 20px;
+} */
+ 
+/* .c1{
+  background-image: url("photos/c1.jpg");
+  width: 290px;
+  height: 45vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.c2{
+  background-image: url("photos/c2.jpg");
+  width: 290px;
+  height: 45vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  margin: 0px 30px;
+}
+
+.c3{
+  background-image: url("photos/c3.jpg");
+  width: 290px;
+  height: 45vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;  
+  margin-left: 50px;
+}
+
+.sub-head{
+  color: #fff;
+  padding-top: 300px;
+  padding-bottom: 40px;
+  font-size: 35px;
+  display: block;
+  font-family: 'Abril Fatface',display;
+  font-weight: bolder;
+  padding-left: 30px;
+  text-decoration: underline;
+} */
+ */
+
+/* _______MENU_________ */
+/* 
+.wrapper{
+  width: 1200px;
+  margin: 100px auto ;
+}
+
+.title{
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.title h4{
+  text-transform: capitalize;
+  font-size: 36px;
+  position: relative;
+  display: inline-block;
+  padding-bottom: 10px;
+}
+
+.title h4 span{
+  display: block;
+  font-size: 30px;
+  font-style: italic;
+  font-family: 'Abril Fatface';
+  font-weight: bolder;
+}
+
+.title h4::before{
+  position: absolute;
+  content: "";
+  width: 100px;
+  height: 2px;
+  background-color: #db9423;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%); 
+}
+
+.menu{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.single_menu{
+  flex-basis: 580px;
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+  border-bottom:  1px solid #ddd;
+}
+
+.single_menu:nth-child(7), .single_menu:nth-child(8){
+  border-bottom: 0;
+}
+
+.single_menu{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.single_menu:hover img{
+  border-radius: 0;
+}
+
+.single_menu img{
+  max-width: 180px;
+  margin-right: 30px;
+  border-radius: 50%;
+  border: 1px solid #ddd;
+  padding: 3px;
+  transition: .5s;
+}
+
+.single_menu h4{
+  text-transform: capitalize;
+  font-size: 22px;
+  border-bottom: 1px dashed #333;
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  font-family: 'Abril Fatface';
+  font-weight: bolder;
+}
+
+.single_menu h4 span{
+  float: right;
+  color: #db9423;
+  font-style: italic;
+}
+
+@media screen and (max-width: 900px){
+  .msg h3{
+    font-size: 30px;
+    font-weight: bold;
+  }
+
+  .msg h1, .gallery_msg h1{
+    font-size: 60px;
+  }
+
+  .sub-head{
+    font-size: 30px;
+  }
+ 
+
+  .single_menu{
+    flex-basis: 1900px;
+    border-bottom: 1px solid #ddd;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .menu{
+    overflow: hidden;
+  }
+
+ .wrapper{
+   width: auto;
+   overflow: hidden;
+   margin: 20px auto !important;
+ }
+
+ .title{
+  text-align: center;
+  margin-bottom: 30px;
+  overflow: hidden;
+}
+
+ .title h4 span{
+   font-size: 24px;
+ }
+
+ .single_menu:nth-child(7){
+  border-bottom:  1px solid #ddd;
+}
+
+.single_menu h4{
+  font-size: 21px;
+}
+
+.single_menu p{
+  font-size: 14px;
+}
+} */
+
+/* @@@@@@@GALLERY */
+
+ /* .gallery{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container{
+position: relative;
+width: 1100px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+padding: 30px;
+}
+
+.container .card{
+position: relative;
+max-width: 300px;
+height: 215px;
+margin: 30px 10px;
+padding: 20px 15px;
+display: flex;
+flex-direction: column;
+box-shadow: 0 5px 202px rgba(0,0,0,0.5);
+transition: 0.3s ease-in-out;
+}
+
+.container .card:hover{
+height: 420px;
+}
+
+.container .card .imgbx{
+position: relative;
+width: 260px;
+height: 260px;
+top: -60px;
+left: 20px;
+box-shadow: 0 5px 202px rgba(0,0,0,0.2);
+z-index: 1;
+}
+
+
+.container .card .imgbx img{
+max-width: 100%;
+border-radius: 4px;
+}
+
+.container .card .content{
+position: relative;
+margin-top: -140px;
+padding: 10px 15px;
+text-align: center;
+color: #db9423;
+font-family: 'Abril Fatface';
+visibility: hidden;
+opacity: 0;
+transition: 0.3s ease-in-out;
+}
+
+.container .card:hover .content{
+visibility: visible;
+opacity: 1;
+margin-top: -40px;
+transition-delay: 0.3s;
+}
+
+
+
+
+.gallery_header{
+  height: 600px;
+  width: 100%;
+  overflow: hidden;
+  margin-bottom: 90px;
+  position: relative;
+}
+
+.gallery_img{
+position: absolute;
+height: 100%;
+width: 100%;
+}
+
+.gallery_msg p{
+ margin-top: 50px;
+ color: #fff;
+ font-size: 20px;
+}
+
+.gallery_msg{
+  position: relative;
+  text-align: center;
+  margin-top: 150px;
+}
+
+.gallery_msg h1{
+ color: #db9423;
+ font-family: 'Abril Fatface';
+ font-size: 80px;
+ font-weight: bold;
+} */
+
+
+
+
+
+/* ______________________________________________About Us_____________________________________*/
+
+
+/* _____Header_____*/
+/* 
+.heading{
+  position: relative;
+  height: 500px;
+  width: 100%;
+  overflow: hidden;
+  font-family: serif;
+  background-attachment: scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: linear-gradient(rgba(10,10,10,0.4), rgba(0,0,0,0.5)),url(photos/aboutbg.jpg);
+}
+.dining_img1{
+  height: 4vh;
+}
+
+.r1{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-top: 100px;
+}
+
+
+.text3 h3{
+  font-family: 'Abril Fatface';
+  color: #db9423;
+  font-size: 30px;
+  font-weight: bolder;
+  padding-top: 20px;
+}
+
+.text3 h1{
+font-family: 'Abril Fatface';
+color: #fff;
+font-size: 100px;
+font-weight: bolder;
+}
+
+.text3 p{
+color: #fff;
+letter-spacing: 1px;
+font-size: 14px;
+padding-bottom: 15px;
+font-family: sans-serif;
+} */
+
+
+
+/*_______________Our resto_____________*/
+/* 
+.Our_resto{
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  background-color: #EEEDEC;
+} 
+
+.r2{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-top: 80px;
+}
+.Our_resto h2{
+  font-family: 'Abril Fatface';
+  color: #db9423; 
+  font-size: 50px;
+  font-weight: bolder;
+}
+.Our_resto .p1{
+   letter-spacing: 6px;
+   font-size: 15px;
+   font-family: 'Poppins',sans-serif;
+   padding: 20px 0;
+}
+.Our_resto p{
+  font-family: 'Poppins',sans-serif;
+}
+.Our_resto .resto_img{
+  padding: 20px 0;
+}
+.Our_resto .chicken_img{
+  position: relative;
+  height: 45vh;
+  width: 100%;
+  margin: 60px 0;
+  justify-content: center;
+} */
+
+
+
+/*_______________food policy_____________*/
+
+
+/* .food_policy{
+  position: relative;
+  height: 450px;
+  width: 100%;
+  overflow: hidden;
+  font-family: serif;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: linear-gradient(rgba(10,10,10,0.4), rgba(0,0,0,0.5)),url(photos/foodpolicybg.jpg);
+  margin-bottom: 40px;
+}
+.food_policy .text5{
+  padding-top: 150px;
+  margin-left: 50px;
+}
+.food_policy .text6{
+  padding-top: 150px;
+}
+
+.food_policy  h2{
+  color: #fff;
+  font-weight: bold;
+  font-family: 'Abril Fatface';
+  text-align: left;
+  font-size: 44px;
+}
+.food_policy p{
+  color: #fff;
+  text-align: left;
+  font: 1em sans-serif;
+  letter-spacing: 3px;
+}
+ */
+
+
+
+/*_______________few words_____________*/
+/* 
+.few_words{
+  position: relative;
+  height: 450px;
+  width: 100%;
+  overflow: hidden;
+  margin: 100px 0;
+}
+.b6{
+  border-radius: 15px;
+  font-size: 14px;
+  font-weight: 550;
+  font-family: sans-serif;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: transparent;
+  color: orange;
+  border: 2px solid #db9423;
+  text-decoration: none !important;
+  text-align: center;
+  padding: 10px 32px;
+  border-radius: 24px;
+  letter-spacing: 1.5px;
+  margin: 20px 0;
+}
+
+.b6:hover{
+  background-color: #db9423;
+  color: white;
+}
+.few_words .text7{
+  margin-right: 20px;
+  text-align: left;
+}
+.few_words .few_words_img{
+  height: 50vh;
+}
+.few_words hr.new2 {
+  border-top: 2px solid #db9423;
+  width: 10%;
+}
+.few_words h2{
+  font-family: 'Abril Fatface';
+  font-weight: bolder;
+  color: #db9423;
+  font-size: 50px;
+}
+
+.few_words .serving{
+  font-family: sans-serif;
+  letter-spacing: 1.5px;
+}
+.few_words h6{
+  color: #db9423;
+  font-family: 'Abril Fatface';
+  font-weight: bolder;
+  font-size: 18px;
+  padding: 10px 0;
+}
+.few_words p{
+  font-family: sans-serif;
+}
+
+
+
+
+
+
+
+@media screen and (max-width: 900px){
+
+.heading{
+   height: 45vh;
+ }
+ .r1{
+   padding-top: 100px;
+ }
+ .text3 .dining_img1{
+   height: 7vh;
+   padding-bottom: 20px;
+ }
+ .text3 h3{
+   font-size: 22px;
+   padding-top: 0px;
+ }
+ .text3 h1{
+   font-size: 40px;
+ }
+ .text3 p{
+   visibility: hidden;
+ }
+ .Our_resto{
+   padding: 0 10px;
+ }
+ .Our_resto h2{
+   font-size: 40px;
+ }
+ .Our_resto .p1{
+   font-size: 16px;
+ }
+ .Our_resto .chicken_img{
+   height: 22vh;
+   width: 100%;
+   margin: 40px 0;
+ }
+ .food_policy{
+   height: 620px;
+ }
+ 
+ .food_policy .text5{
+   margin: 0;
+   padding-top: 80px;
+   padding-left: 50px;
+   padding-right: 50px;
+   text-align: center;
+   
+ }
+ .food_policy .text6{
+   margin: 0;
+   padding-top: 30px;
+   padding-left: 50px;
+   padding-right: 50px;
+ }
+ .food_policy h2{
+   font-size: 30px;
+   text-align: center;
+ }
+.food_policy p{
+  font-size: 14px;
+  padding-top: 10px;
+  text-align: center;
+}
+.few_words{
+  height: 600px;
+  margin: 50px 0;
+}
+.few_words .text7{
+  padding: 0 42px;
+  text-align: center;
+}
+.few_words h2{
+  font-size: 32px;
+}
+.few_words .serving{
+  font-size: 14px;
+}
+
+.few_words hr.new2{
+  width: 100%;
+}
+.few_words h6{
+  font-size: 16px;
+}
+.few_words p{
+  font-size: 14px;
+}
+.b6{
+  margin-top: 8px;
+  margin-bottom: 30px;
+}
+.few_words .few_words_img{
+  width: 90%;
+  height: 30vh;
+  margin-left: 20px;
+}
+
+} */
+
+
+/* @@@@@RESERVATION */
+/* 
+.table{
+
+} */
+
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.header{
+  min-height: 90px;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.navbar-brand img{
+ margin-left: 100px;
+ }
+
+.navbar-nav{
+ padding-right: 80px;
+ margin-right: 100px;
+}
+
+.nav-link{
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  font-size: 16px;
+  font-family: 'Poppins',sans-serif;
+  font-weight: 600;
+}
+
+.navbar-light .navbar-nav .nav-item .active .nav-link,
+.navbar-light .navbar-nav .nav-item .nav-link:hover{
+  color: #db9423;
+}
+ .button{
+  background-color: #4CAF50; 
+  border: none;
+  color: #db9423;
+  padding: 10px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  margin-right: 30px;
+  margin-top: 15px;
+}
+.button1 {
+  background-color: white; 
+  color: #db9423; 
+  border: 2px solid #db9423;
+  border-radius: 24px;
+  font-family: sans-serif;
+  font-weight: 550;
+  letter-spacing: 1.5px;
+  padding: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.button1:hover {
+  background-color: #db9423;
+  color: white;
+}
+.fa-bars{
+  font-size: 20px !important;
+  margin-top: 5px !important;
+}
+
+
+
+
+ /* _______bg video_________ */
+.banner{
+    height: 692px;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 90px;
+    position: relative;
+}
+.video-background{
+  position: absolute;
+}
+
+@media (min-aspect-ratio:16/9){
+  .video-background{
+    width: 100%;
+    height: auto;
+  }
+  
+}
+@media (max-aspect-ratio:16/9){
+  .video-background{
+    width: auto;
+    height: 100%;
+  }
+}
+.welcome-msg{
+   position: relative;
+   text-align: center;
+   margin-top: 150px;
+}
+
+.welcome-msg h3{
+  font-family: 'Times New Roman', Times, serif;
+  color: #db9423;
+  font-size: 35px;
+  font-weight: bold;
+}
+.welcome-msg h1{
+  color: #fff;
+  font-family: 'Abril Fatface';
+  font-size: 100px;
+  font-weight: bold;
+}
+.button2 {
+background-color: white; 
+color: #db9423; 
+border-radius: 24px;
+font-family: sans-serif;
+font-weight: 550;
+letter-spacing: 1.5px;
+}
+.button2:hover {
+background-color: #db9423;
+color: white;
+}
+.button3 {
+background-color: transparent; 
+color: #db9423; 
+border: 2px solid #db9423;
+border-radius: 24px;
+font-family: sans-serif;
+font-weight: 550;
+letter-spacing: 1.5px;
+}
+.button3:hover {
+background-color: #db9423;
+color: white;
+}
+
+ /* _______BBQ__________ */
+.bbq_place{
+  overflow: hidden;
+  margin-bottom: 80px;
+}
+
+.bbq_place .symbol2{
+  height: 6vh;
+  margin-bottom: 20px;
+  margin-left: 160px;
+} 
+.bbq_place h2{
+  color: #db9423;
+  font-family: 'Abril Fatface';
+  font-weight: bold;
+  font-size: 50px;
+ text-align: center;
+}
+.bbq_place .symbol3{
+  margin-left: 80px;
+ }
+.bbq_place .button{
+  margin-left: 120px;
+  margin-top: 20px;
+}
+.bbq_place .para{
+  margin-top: 20px;
+  text-align: center;
+}
+.bbq_place .bold{
+  text-align: center;
+  color: #db9423;
+}
+.b3{
+  border-radius: 15px;
+  font-size: 14px;
+  font-weight: 550;
+  font-family: sans-serif;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: white;
+  color: orange;
+  border: 2px solid #db9423;
+  text-decoration: none !important;
+  margin-left: 85px;
+  padding: 10px 32px;
+  border-radius: 24px;
+  letter-spacing: 1.5px;
+}
+
+.b3:hover{
+  background-color: #db9423;
+  color: white;
+}
+.bbq_place .barb_img1{
+  margin-left: 60px;
+  height: 70vh;
+}
+.bbq_place .barb_img2{
+  height: 70vh;
+}
+
+
+/* _______Feature__________ */
+.feature{
+  margin-bottom: 70px;
+  overflow: hidden;
+  margin-top: 70px;
+}
+.feature_text{
+  padding-top: 10px;
+  color: #db9423;
+  font-family: serif;
+  font-weight: bolder;
+  font-size: 35px;
+  justify-content: center;
+  margin-left: 40px;
+  margin-top: 20px;
+}
+
+
+
+/* _______HAPPY HOURS__________ */
+
+.sec{
+  padding-top: 100px;
+}
+
+.happy{
+  position: relative;
+  height: 600px;
+  width: 100%;
+  overflow: hidden;
+  font-family: serif;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: linear-gradient(rgba(10,10,0,0), rgba(0,0,0,0.5)),url(photos/pexels-fauxels-3184192.jpg);
+}
+.dining_img{
+  height: 10vh;
+}
+
+.r1{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-top: 100px;
+}
+
+
+.text2 h3{
+  font-family: 'Abril Fatface';
+  color: #db9423;
+  font-size: 25px;
+  font-weight: bolder;
+  padding: 50px 0px 20px 0px;
+}
+
+.text2 h1{
+font-family: 'Abril Fatface';
+color: #db9423;
+font-size: 53px;
+font-weight: bolder;
+padding-bottom: 15px;
+}
+
+.text2 p{
+color: #fff;
+letter-spacing: 1px;
+font-size: 15px;
+padding-bottom: 15px;
+font-family: sans-serif;
+}
+
+.b4{
+  border-radius: 15px;
+  font-size: 14px;
+  font-weight: 550;
+  font-family: sans-serif;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: transparent;
+  color: orange;
+  border: 2px solid #db9423;
+  text-decoration: none !important;
+  text-align: center;
+  padding: 10px 32px;
+  border-radius: 24px;
+  letter-spacing: 1.5px;
+}
+
+.b4:hover{
+  background-color: #db9423;
+  color: white;
+}
+
+/* _____FOOTER_____*/
+
+
+
+.eat{
+  position: relative;
+  height: 600px;
+  width: 100%;
+  overflow: hidden;
+  font-family: serif;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: linear-gradient(rgba(10,10,10,0.4), rgba(0,0,0,0.8)),url(photos/footer.jpg);
+}
+.eat .footer_msg{
+  text-align: center;
+  margin-top: 150px;
+}
+.footer_msg h1{
+  font-family: 'Abril Fatface';
+  color: #db9423;
+  font-size: 48px;
+  font-weight: bolder;
+  text-align: center;
+}
+.footer_msg p{
+  color: #fff;
+  margin-top: 10px;
+  font-family: sans-serif;
+}
+.footer_msg h3{
+  color: #fff;
+  font-family: 'Abril Fatface';
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.b5{
+  border-radius: 15px;
+  font-size: 14px;
+  font-weight: 550;
+  font-family: sans-serif;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: transparent;
+  color: orange;
+  border: 2px solid #db9423;
+  text-decoration: none !important;
+  text-align: center;
+  padding: 10px 32px;
+  border-radius: 24px;
+  letter-spacing: 1.5px;
+  margin: 30px 0;
+}
+
+.b5:hover{
+  background-color: #db9423;
+  color: white;
+}
+
+/* ______________________________________________About Us_____________________________________*/
+
+
+/* _____Header_____*/
+
+.heading{
+  position: relative;
+  height: 500px;
+  width: 100%;
+  overflow: hidden;
+  font-family: serif;
+  background-attachment: scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: linear-gradient(rgba(10,10,10,0.4), rgba(0,0,0,0.5)),url(photos/aboutbg.jpg);
+}
+.dining_img1{
+  height: 4vh;
+}
+
+.r1{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-top: 100px;
+}
+
+
+.text3 h3{
+  font-family: 'Abril Fatface';
+  color: #db9423;
+  font-size: 30px;
+  font-weight: bolder;
+  padding-top: 20px;
+}
+
+.text3 h1{
+font-family: 'Abril Fatface';
+color: #fff;
+font-size: 100px;
+font-weight: bolder;
+}
+
+.text3 p{
+color: #fff;
+letter-spacing: 1px;
+font-size: 14px;
+padding-bottom: 15px;
+font-family: sans-serif;
+}
+
+
+
+/*_______________Our resto_____________*/
+
+.Our_resto{
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  background-color: #EEEDEC;
+} 
+
+.r2{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-top: 80px;
+}
+.Our_resto h2{
+  font-family: 'Abril Fatface';
+  color: #db9423; 
+  font-size: 50px;
+  font-weight: bolder;
+}
+.Our_resto .p1{
+   letter-spacing: 6px;
+   font-size: 15px;
+   font-family: 'Poppins',sans-serif;
+   padding: 20px 0;
+}
+.Our_resto p{
+  font-family: 'Poppins',sans-serif;
+}
+.Our_resto .resto_img{
+  padding: 20px 0;
+}
+.Our_resto .chicken_img{
+  position: relative;
+  height: 45vh;
+  width: 100%;
+  margin: 60px 0;
+  justify-content: center;
+}
+
+
+
+/*_______________food policy_____________*/
+
+
+.food_policy{
+  position: relative;
+  height: 450px;
+  width: 100%;
+  overflow: hidden;
+  font-family: serif;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: linear-gradient(rgba(10,10,10,0.4), rgba(0,0,0,0.5)),url(photos/foodpolicybg.jpg);
+  margin-bottom: 40px;
+}
+.food_policy .text5{
+  padding-top: 150px;
+  margin-left: 50px;
+}
+.food_policy .text6{
+  padding-top: 150px;
+}
+
+.food_policy  h2{
+  color: #fff;
+  font-weight: bold;
+  font-family: 'Abril Fatface';
+  text-align: left;
+  font-size: 44px;
+}
+.food_policy p{
+  color: #fff;
+  text-align: left;
+  font: 1em sans-serif;
+  letter-spacing: 3px;
+}
+
+
+
+
+/*_______________few words_____________*/
+
+.few_words{
+  position: relative;
+  height: 450px;
+  width: 100%;
+  overflow: hidden;
+  margin: 100px 0;
+}
+.b6{
+  border-radius: 15px;
+  font-size: 14px;
+  font-weight: 550;
+  font-family: sans-serif;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  background-color: transparent;
+  color: orange;
+  border: 2px solid #db9423;
+  text-decoration: none !important;
+  text-align: center;
+  padding: 10px 32px;
+  border-radius: 24px;
+  letter-spacing: 1.5px;
+  margin: 20px 0;
+}
+
+.b6:hover{
+  background-color: #db9423;
+  color: white;
+}
+.few_words .text7{
+  margin-right: 20px;
+  text-align: left;
+}
+.few_words .few_words_img{
+  height: 50vh;
+}
+.few_words hr.new2 {
+  border-top: 2px solid #db9423;
+  width: 10%;
+}
+.few_words h2{
+  font-family: 'Abril Fatface';
+  font-weight: bolder;
+  color: #db9423;
+  font-size: 50px;
+}
+
+.few_words .serving{
+  font-family: sans-serif;
+  letter-spacing: 1.5px;
+}
+.few_words h6{
+  color: #db9423;
+  font-family: 'Abril Fatface';
+  font-weight: bolder;
+  font-size: 18px;
+  padding: 10px 0;
+}
+.few_words p{
+  font-family: sans-serif;
+}
+
+
+
+/*__________________________MENU____________________________________*/
+
+/* ______IMAGE____ */
+
+.menu_header{
+  position: relative;
+  height: 500px;
+  width: 100%;
+  overflow: hidden;
+  font-family: serif;
+  background-attachment: scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: linear-gradient(rgba(10,10,10,0.4), rgba(0,0,0,0.5)),url(photos/menu.jpg);
+}
+.dining_img1{
+  height: 4vh;
+}
+
+.r1{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-top: 100px;
+}
+
+
+.text_header h3{
+  font-family: 'Abril Fatface';
+  color: #db9423;
+  font-size: 30px;
+  font-weight: bolder;
+  padding-top: 20px;
+}
+
+.text_header h1{
+font-family: 'Abril Fatface';
+color: #fff;
+font-size: 100px;
+font-weight: bolder;
+}
+
+.text_header p{
+color: #fff;
+letter-spacing: 1px;
+font-size: 14px;
+padding-bottom: 15px;
+font-family: sans-serif;
+}
+
+/* ______TEXT____ */
+
+.menu_text{
+  overflow: hidden;
+  padding-top: 80px;
+  margin-bottom: 50px;
+}
+
+.menu_t1{
+  text-align: center;
+}
+
+.menu_t1 h1{
+  color: #db9423;
+  font-size: 45px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+
+.menu_t1 h6{
+  letter-spacing: 7px;
+  font-weight: inherit;
+  padding-bottom: 10px;
+}
+
+.menu_t1 p{
+  font-size: 18px;
+  letter-spacing: 1px;
+  padding-bottom: 20px;
+}
+
+/* ____CARDS____ */
+
+.menu_card{
+  overflow: hidden;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+ 
+.c1{
+  background-image: linear-gradient(rgba(10,10,0,0), rgba(0,0,0,0.5)),url("photos/fries.jpg.jpg");
+  width: 290px;
+  height: 45vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.c2{
+  background-image: linear-gradient(rgba(10,10,0,0), rgba(0,0,0,0.5)),url("photos/pizza.jpg.jpg");
+  width: 290px;
+  height: 45vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.c3{
+  background-image: linear-gradient(rgba(10,10,0,0), rgba(0,0,0,0.5)),url("photos/c3.jpg");
+  width: 290px;
+  height: 45vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;  
+}
+
+.sub-head{
+  color: #fff;
+  padding-top: 270px;
+  font-size: 35px;
+  display: block;
+  font-family: 'Abril Fatface';
+  font-weight: bolder;
+  padding-left: 30px;
+}
+hr.new3{
+  border-top: 4px solid #db9423;
+  width: 25%;
+  margin-left: 30px;
+}
+
+
+/* _______MENU_________ */
+.Menu_wrapper_container{
+  background-color: #F5F5F5;
+  margin-bottom: -100px;
+}
+.wrapper{
+  width: 1200px;
+  margin: 100px auto;
+  padding-bottom: 40px;
+}
+
+.title{
+  padding-top: 60px;
+  text-align: center;
+  margin-bottom: 60px;
+}
+
+.title h4{
+  text-transform: capitalize;
+  font-size: 36px;
+  position: relative;
+  display: inline-block;
+  padding-bottom: 10px;
+}
+
+.title h4 span{
+  display: block;
+  font-size: 30px;
+  font-style: italic;
+  font-family: 'Abril Fatface';
+  font-weight: bolder;
+}
+
+.title h4::before{
+  position: absolute;
+  content: "";
+  width: 100px;
+  height: 2px;
+  background-color: #db9423;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%); 
+}
+
+.menu{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.single_menu{
+  flex-basis: 580px;
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+  border-bottom:  1px solid #ddd;
+}
+
+.single_menu:nth-child(7), .single_menu:nth-child(8){
+  border-bottom: 0;
+}
+
+.single_menu{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.single_menu:hover img{
+  border-radius: 0;
+}
+
+.single_menu img{
+  max-width: 180px;
+  margin-right: 30px;
+  border-radius: 50%;
+  border: 1px solid #ddd;
+  padding: 3px;
+  transition: .5s;
+}
+
+.single_menu h4{
+  text-transform: capitalize;
+  font-size: 22px;
+  border-bottom: 1px dashed #333;
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  font-family: 'Abril Fatface';
+  font-weight: bolder;
+}
+
+.single_menu h4 span{
+  float: right;
+  color: #db9423;
+  font-style: italic;
+}
+
+
+/*_________________GALLERY_______________*/
+
+
+
+ .gallery{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.container{
+position: relative;
+width: 1100px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+padding: 30px;
+}
+
+.container .card{
+position: relative;
+max-width: 300px;
+height: 215px;
+margin: 30px 10px;
+padding: 20px 15px;
+display: flex;
+flex-direction: column;
+box-shadow: 0 5px 202px rgba(0,0,0,0.5);
+transition: 0.3s ease-in-out;
+}
+
+.container .card:hover{
+height: 420px;
+}
+
+.container .card .imgbx{
+position: relative;
+width: 260px;
+height: 260px;
+top: -60px;
+left: 20px;
+box-shadow: 0 5px 202px rgba(0,0,0,0.2);
+z-index: 1;
+}
+
+
+.container .card .imgbx img{
+max-width: 100%;
+border-radius: 4px;
+}
+
+.container .card .content{
+position: relative;
+margin-top: -140px;
+padding: 10px 15px;
+text-align: center;
+color: #db9423;
+font-family: 'Abril Fatface';
+visibility: hidden;
+opacity: 0;
+transition: 0.3s ease-in-out;
+}
+
+.container .card:hover .content{
+visibility: visible;
+opacity: 1;
+margin-top: -40px;
+transition-delay: 0.3s;
+}
+ 
+.gallery_header{
+  position: relative;
+  height: 500px;
+  width: 100%;
+  overflow: hidden;
+  font-family: serif;
+  background-attachment: scroll;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: linear-gradient(rgba(10,10,10,0.4), rgba(0,0,0,0.5)),url(photos/gallery.jpg);
+}
+.dining_img1{
+  height: 4vh;
+}
+
+.r4{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding-top: 130px;
+}
+.gallery_text_header h1{
+font-family: 'Abril Fatface';
+color: #fff;
+font-size: 100px;
+font-weight: bolder;
+}
+.gallery_text_header p{
+  color: #fff;
+  letter-spacing: 1px;
+  font-size: 14px;
+  padding-bottom: 15px;
+  font-family: sans-serif;
+  }
+
+
+/*_________________________________reservation__________________________*/
+    
+  
+    .reser{
+      position: relative;
+      height: 700px;
+      width: 100%;
+      overflow: hidden;
+      font-family: serif;
+      background-attachment: scroll;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-image: linear-gradient(rgba(10,10,10,0.4), rgba(0,0,0,0.5)),url(photos/restaurant_bg.jpg);
+    }
+  
+    .container-form {
+      padding: 20px 40px;
+      margin: 100px 400px;
+      color: #000;
+      background-color: rgba(16, 17, 19, 0.7);
+      border-radius: 20px;
+      }
+      .container-form h2{
+        color: #db9423;
+        text-align: center;
+        font-family: 'Poppins',sans-serif;
+        font-weight: bolder;
+       
+      }
+      form {
+        display: grid;
+        grid-row-gap: 20px;
+        }
+        form p {
+        font-weight: 600;
+        padding-top: 10px;
+        padding-right: 5px;
+        color: #fff;
+        font-family: 'Abril Fatface';
+        }
+        .form-field {
+        display: flex;
+        justify-content: space-between;
+        }
+        
+        input,select {
+        padding: 1px 15px;
+        }
+
+        .container-form .btn {
+          background-color: #db9423;
+          color: #000;
+          padding: 10px 20px;
+          border: none;
+          font-size: 18px;
+          font-family: sans-serif;
+          border-radius: 100px;
+          box-shadow: 7px 10px 12px rgba(0, 0, 0, .1);
+          cursor: pointer;
+          transition: all .3s;
+          }
+          
+         .container-form .btn:hover {
+          transform: scale(1.03);
+          -webkit-transform: scale(1.03);
+          -moz-transform: scale(1.03);
+          -ms-transform: scale(1.03);
+          -o-transform: scale(1.03);
+          box-shadow: 10px 12px 15px rgba(0, 0, 0, .3);
+          }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*_________________________mobile________________________________--*/
+
+@media screen and (max-width: 900px){
+  .header{
+    min-height: 50px;
+  }
+   .navbar-brand img{
+    margin-left: -4px;
+    height: 5vh;
+  }
+  .welcome-msg{
+    bottom: 40px;
+  }
+  .welcome-msg h1{
+     font-size: 45px;
+  }
+  .welcome-msg h3{
+    font-size: 20px;
+    margin-left: 10px;
+  }
+  .welcome-msg .symbol{
+    margin-bottom: 10px;
+    margin-left: 10px;
+  }
+  .button2{
+    margin-left: 40px;
+  }
+  .button3{
+    margin-left: 40px;
+  }
+  .banner{
+    height: 550px;
+  }
+  .bbq_place .symbol2{
+    margin-left: 185px;
+  }
+  .bbq_place .symbol3{
+    margin-left: 110px;
+  }
+  .bbq_place h2{
+    font-size: 35px;
+  }
+  .bbq_place h4{
+    font-size: 19px;
+    text-align: center;
+    padding: 0 14px;
+    font-weight: bold;
+  }
+  .bbq_place p{
+    font-size: 15px;
+    padding: 0 22px;
+    text-align: center;
+  }
+  .bbq_place .b3{
+    text-align: center;
+    margin-left: 120px;
+    margin-bottom: 24px;
+  }
+  .bbq_place .barb_img1{
+    height: 38vh;
+    margin-left: 15px;
+    padding-left: 30px;
+    
+  }
+  .bbq_place .barb_img2{
+    height: 38vh;
+  }
+  .feature_text{
+    text-align: center;
+    margin: 0;
+  }
+  .feature_logo{
+    height: 9vh;
+    padding-left: 20px;
+  }
+  .eat{
+    height: 400px;
+  }
+  .eat .footer_msg{
+    margin-top: 10px;
+  }
+  .footer_msg h1{
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 50px;
+  }
+  .footer_msg img{
+    height: 4vh;
+  }
+  .footer_msg p{
+    visibility: hidden;
+  }
+  .b5{
+    margin-top: -100px;
+  }
+  .footer_msg h3{
+    font-size: 20px;
+    padding: 0;
+  }
+  .happy{
+    height: 450px;
+  }
+  .text2 h1{
+    font-size: 35px;
+    padding: 0;
+  }
+  .text2 h3{
+    font-size: 20px;
+    padding: 0;
+  }
+  .dining_img{
+    padding-bottom: 30px;
+  }
+/* ___________About Us_____________*/
+ .heading{
+   height: 45vh;
+ }
+ .r1{
+   padding-top: 100px;
+ }
+ .text3 .dining_img1{
+   height: 7vh;
+   padding-bottom: 20px;
+ }
+ .text3 h3{
+   font-size: 25px;
+   padding-top: 0px;
+ }
+ .text3 h1{
+   font-size: 45px;
+ }
+ .text3 p{
+   visibility: hidden;
+ }
+ .Our_resto{
+   padding: 0 10px;
+ }
+ .Our_resto h2{
+   font-size: 40px;
+ }
+ .Our_resto .p1{
+   font-size: 16px;
+ }
+ .Our_resto .chicken_img{
+   height: 22vh;
+   width: 100%;
+   margin: 40px 0;
+ }
+ .food_policy{
+   height: 620px;
+ }
+ 
+ .food_policy .text5{
+   margin: 0;
+   padding-top: 80px;
+   padding-left: 50px;
+   padding-right: 50px;
+   text-align: center;
+   
+ }
+ .food_policy .text6{
+   margin: 0;
+   padding-top: 30px;
+   padding-left: 50px;
+   padding-right: 50px;
+ }
+ .food_policy h2{
+   font-size: 30px;
+   text-align: center;
+ }
+.food_policy p{
+  font-size: 14px;
+  padding-top: 10px;
+  text-align: center;
+}
+.few_words{
+  height: 600px;
+  margin: 50px 0;
+}
+.few_words .text7{
+  padding: 0 42px;
+  text-align: center;
+}
+.few_words h2{
+  font-size: 32px;
+}
+.few_words .serving{
+  font-size: 14px;
+}
+
+.few_words hr.new2{
+  width: 100%;
+}
+.few_words h6{
+  font-size: 16px;
+}
+.few_words p{
+  font-size: 14px;
+}
+.b6{
+  margin-top: 8px;
+  margin-bottom: 30px;
+}
+.few_words .few_words_img{
+  width: 90%;
+  height: 30vh;
+  margin-left: 20px;
+}
+
+/*_____________gallery and menu_______________*/
+.menu_header{
+  height: 45vh;
+}
+.r1{
+  padding-top: 100px;
+}
+.menu_header .dining_img1{
+  height: 7vh;
+  padding-bottom: 20px;
+}
+.text_header h3{
+  font-size: 25px;
+  padding-top: 0px;
+}
+.text_header h1{
+  font-size: 45px;
+}
+.text_header p{
+  visibility: hidden;
+}
+.msg h3{
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.msg h1, .gallery_msg h1{
+  font-size: 60px;
+}
+
+.sub-head{
+  font-size: 40px;
+}
+.c1{
+  width: 350px;
+  height: 25vh;
+  
+}
+.c2{
+  width: 350px;
+  height: 25vh;
+  margin: 25px 0;
+}
+.c3{
+  width: 350px;
+  height: 25vh;
+  
+}
+
+
+.single_menu{
+  flex-basis: 1900px;
+  border-bottom: 1px solid #ddd;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.menu{
+  overflow: hidden;
+}
+
+.wrapper{
+ width: auto;
+ overflow: hidden;
+ margin: 20px auto !important;
+}
+
+.title{
+text-align: center;
+margin-bottom: 30px;
+overflow: hidden;
+}
+
+.title h4 span{
+ font-size: 24px;
+}
+
+.single_menu:nth-child(7){
+border-bottom:  1px solid #ddd;
+}
+
+.single_menu h4{
+font-size: 21px;
+}
+
+.single_menu p{
+font-size: 14px;
+}
+.gallery_header{
+  height: 45vh;
+}
+.r4{
+  padding-top: 90px;
+}
+.gallery_text_header .dining_img1{
+  height: 7vh;
+  padding-bottom: 20px;
+}
+.gallery_text_header h1{
+  font-size: 45px;
+}
+.gallery_text_header p{
+  visibility: hidden;
+}
+/*________________reservation_______________*/
+.reser{
+  height: 750px;
+}
+.container-form{
+  margin: 60px 30px; 
+  padding: 0;
+}
+.container-form h2{
+  padding-top: 30px;
+}
+form p{
+  padding: 5px;
+  font-size: 16px;
+  margin: 0 5px;
+}
+input,select {
+  padding: 1px 11px;
+  }
+.container-form .btn{
+  margin: 18px 20px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
